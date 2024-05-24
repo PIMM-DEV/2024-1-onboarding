@@ -13,7 +13,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public const double G = 9.8f;  // 중력가속도 G
+public const double G = 9.8;  // 중력가속도 G
 
 public class CubeController : MonoBehaviour
 {
