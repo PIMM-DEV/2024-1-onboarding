@@ -1,0 +1,8 @@
+18,20c18,20
+<         Coordinate3D.x = x
+<         Coordinate3D.y = y
+<         Coordinate3D.z = z
+---
+>         self.x = x
+>         self.y = y
+>         self.z = z

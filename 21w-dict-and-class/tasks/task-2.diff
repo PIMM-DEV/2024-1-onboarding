@@ -1,0 +1,4 @@
+26c26
+<             transform.position.y + 1,
+---
+>             transform.position.y + currentSpeed,
