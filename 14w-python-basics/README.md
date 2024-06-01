@@ -1,0 +1,3 @@
+- 2754번: 학점 계산 — https://www.acmicpc.net/problem/2754
+- 10872번: 팩토리얼 — https://www.acmicpc.net/problem/10872
+- 10950번: A + B - 3 — https://www.acmicpc.net/problem/10950

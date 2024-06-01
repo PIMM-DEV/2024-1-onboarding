@@ -1,0 +1,5 @@
+- 2480번: 주사위 세개 — https://www.acmicpc.net/problem/2480
+- 2884번: 알람 시계 — https://www.acmicpc.net/problem/2884
+- 8393번: 합 — https://www.acmicpc.net/problem/8393
+- 10886번: 0 = not cute / 1 = cute — https://www.acmicpc.net/problem/10886
+- 25304번: 영수증 — https://www.acmicpc.net/problem/25304
